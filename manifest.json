@@ -1,0 +1,11 @@
+{
+  "dataStudio": {
+    "name": "5指標レーダーチャート",
+    "company": "Your Company",
+    "logoUrl": "https://yourdomain.com/logo.png",
+    "supportedTypes": ["TABLE"],
+    "defaultType": "TABLE",
+    "style": [],
+    "script": "radar_chart.js"
+  }
+}
